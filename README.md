@@ -1,0 +1,1 @@
+# Synching multiple input types with javascript
